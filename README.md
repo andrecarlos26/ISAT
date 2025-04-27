@@ -100,6 +100,7 @@ An example dataset with memory usage records over time, ideal for quick local te
 ### 1) Install Dependencies (Backend)
 ```bash
 # From the project root, install all dependencies via requirements.txt
+cd backend
 pip install -r requirements.txt
 ```
 
